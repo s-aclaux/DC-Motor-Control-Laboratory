@@ -19,13 +19,13 @@ The work combines analytical modeling, MATLAB simulation, and hardware implement
 ---
 
 ## Repository Contents
-- **Report: `doc` folder**  
+- **Report: `docs` folder**  
   Full LaTeX-written report detailing the derivation, controller design, simulation results, and experimental analysis.
   
-- **Figures: `fig` folder**  
+- **Figures: `figs` folder**  
   Diagrams of the physical setup, block diagrams, linear graphs, and MATLAB plots.
 
-- **MATLAB Code: `m` folder**  
+- **MATLAB Code: `scripts` folder**  
   Contains all calculations, transfer function definitions, controller design, Bode plots, and step response simulations.
 
 ---
